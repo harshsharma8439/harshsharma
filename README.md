@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vipuljaiswal8954
+- 👋 Hi, I’m @Vipul Jaiswal   
 - 👀 I’m interested in Android and Full stack development.
 - 🌱 I’m currently learning react and node.js
 - 💞️ I’m looking to collaborate on ...
