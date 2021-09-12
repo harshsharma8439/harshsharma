@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vipul Jaiswal   
 - 👀 I’m interested in Android and Full stack development.
 - 🌱 I’m currently learning react and node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on node.js
 - 📫 How to reach me: jaiswalvipul8@gmail.com
 
 <!---
