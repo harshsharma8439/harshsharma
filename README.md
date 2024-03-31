@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vipul Jaiswal   
 - 👀 I’m interested in Full stack development.
-- 🌱 I’m currently working as a MEVN stack developer.
+- 🌱 I’m currently working as a MERN stack developer.
 - 💞️ I’m looking to collaborate on node.js
 - 📫 How to reach me: jaiswalvipul8@gmail.com
 
